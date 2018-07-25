@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="" />
+    <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,28 +28,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Foundation_UnionFind_QuickUnion.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/Foundation_UnionFind_QuickUnion.java">
+      <file leaf-file-name="Sort_Base.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="95">
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
               <folding>
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Foundation_UnionFind_QuickUnionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java">
+      <file leaf-file-name="Sort_Shell.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sort_ShellTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,6 +95,13 @@
         <option value="$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFindQuickFindTest.java" />
         <option value="$PROJECT_DIR$/src/chapter1_Foundation/Foundation_UnionFind_QuickUnion.java" />
         <option value="$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Selection.java" />
+        <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java" />
+        <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_SelectionTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Insert.java" />
+        <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_InsertTest.java" />
+        <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Shell.java" />
       </list>
     </option>
   </component>
@@ -107,10 +121,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="318" />
+    <option name="x" value="315" />
     <option name="y" value="126" />
     <option name="width" value="2100" />
-    <option name="height" value="1500" />
+    <option name="height" value="1504" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -121,6 +135,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,7 +153,7 @@
               <item name="Algrothim_4th" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algrothim_4th" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1_Foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algrothim_4th" type="b2602c69:ProjectViewProjectNode" />
@@ -149,13 +164,12 @@
               <item name="Algrothim_4th" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algrothim_4th" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1_Foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter2_Sort" />
       <recent name="chapter1_Foundation" />
       <recent name="" />
     </key>
@@ -196,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.chapter1_Foundation in Algrothim_4th">
+  <component name="RunManager" selected="JUnit.Sort_ShellTest">
     <configuration name="All in Algrothim_4th" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -214,18 +229,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Foundation_BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sort_InsertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1_Foundation.*" />
+          <option name="PATTERN" value="chapter2_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter1_Foundation" />
-      <option name="MAIN_CLASS_NAME" value="chapter1_Foundation.Foundation_BinarySearchTest" />
+      <option name="PACKAGE_NAME" value="chapter2_Sort" />
+      <option name="MAIN_CLASS_NAME" value="chapter2_Sort.Sort_InsertTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -237,18 +252,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Foundation_UnionFindQuickFindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sort_SelectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1_Foundation.*" />
+          <option name="PATTERN" value="chapter2_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter1_Foundation" />
-      <option name="MAIN_CLASS_NAME" value="chapter1_Foundation.Foundation_UnionFindQuickFindTest" />
+      <option name="PACKAGE_NAME" value="chapter2_Sort" />
+      <option name="MAIN_CLASS_NAME" value="chapter2_Sort.Sort_SelectionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -260,18 +275,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ResizingArraryStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sort_ShellTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1_Foundation.*" />
+          <option name="PATTERN" value="chapter2_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter1_Foundation" />
-      <option name="MAIN_CLASS_NAME" value="chapter1_Foundation.ResizingArraryStackTest" />
+      <option name="PACKAGE_NAME" value="chapter2_Sort" />
+      <option name="MAIN_CLASS_NAME" value="chapter2_Sort.Sort_ShellTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -283,17 +298,17 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="chapter1_Foundation in Algrothim_4th" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter2_Sort in Algrothim_4th" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1_Foundation.*" />
+          <option name="PATTERN" value="chapter2_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter1_Foundation" />
+      <option name="PACKAGE_NAME" value="chapter2_Sort" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -307,18 +322,18 @@
       <patterns />
     </configuration>
     <list>
+      <item itemvalue="JUnit.chapter2_Sort in Algrothim_4th" />
       <item itemvalue="JUnit.All in Algrothim_4th" />
-      <item itemvalue="JUnit.ResizingArraryStackTest" />
-      <item itemvalue="JUnit.chapter1_Foundation in Algrothim_4th" />
-      <item itemvalue="JUnit.Foundation_BinarySearchTest" />
-      <item itemvalue="JUnit.Foundation_UnionFindQuickFindTest" />
+      <item itemvalue="JUnit.Sort_SelectionTest" />
+      <item itemvalue="JUnit.Sort_InsertTest" />
+      <item itemvalue="JUnit.Sort_ShellTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.chapter1_Foundation in Algrothim_4th" />
-        <item itemvalue="JUnit.Foundation_UnionFindQuickFindTest" />
-        <item itemvalue="JUnit.Foundation_BinarySearchTest" />
-        <item itemvalue="JUnit.ResizingArraryStackTest" />
+        <item itemvalue="JUnit.Sort_ShellTest" />
+        <item itemvalue="JUnit.Sort_InsertTest" />
+        <item itemvalue="JUnit.chapter2_Sort in Algrothim_4th" />
+        <item itemvalue="JUnit.Sort_SelectionTest" />
         <item itemvalue="JUnit.All in Algrothim_4th" />
       </list>
     </recent_temporary>
@@ -338,47 +353,49 @@
       <workItem from="1532255832224" duration="306000" />
       <workItem from="1532256163208" duration="11294000" />
       <workItem from="1532349974182" duration="3296000" />
-      <workItem from="1532361580830" duration="6698000" />
+      <workItem from="1532361580830" duration="7228000" />
+      <workItem from="1532445611921" duration="1200000" />
+      <workItem from="1532524793321" duration="6255000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ResizingArraryStackTest - 2018.07.24 at 00h 33m 52s.xml">
-      <configuration name="ResizingArraryStackTest" configurationId="JUnit" />
+    <history-entry file="All_in_Algrothim_4th - 2018.07.25 at 23h 28m 09s.xml">
+      <configuration name="All in Algrothim_4th" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResizingArraryStackTest - 2018.07.24 at 00h 34m 02s.xml">
-      <configuration name="ResizingArraryStackTest" configurationId="JUnit" />
+    <history-entry file="Sort_SelectionTest - 2018.07.26 at 01h 14m 14s.xml">
+      <configuration name="Sort_SelectionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResizingArraryStackTest - 2018.07.24 at 00h 34m 24s.xml">
-      <configuration name="ResizingArraryStackTest" configurationId="JUnit" />
+    <history-entry file="Sort_SelectionTest - 2018.07.26 at 01h 14m 33s.xml">
+      <configuration name="Sort_SelectionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_BinarySearchTest - 2018.07.24 at 00h 34m 31s.xml">
-      <configuration name="Foundation_BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="chapter2_Sort_in_Algrothim_4th - 2018.07.26 at 01h 14m 41s.xml">
+      <configuration name="chapter2_Sort in Algrothim_4th" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_BinarySearchTest - 2018.07.24 at 00h 34m 55s.xml">
-      <configuration name="Foundation_BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="Sort_InsertTest - 2018.07.26 at 01h 14m 59s.xml">
+      <configuration name="Sort_InsertTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_BinarySearchTest - 2018.07.24 at 00h 35m 15s.xml">
-      <configuration name="Foundation_BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 22m 25s.xml">
+      <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_BinarySearchTest - 2018.07.24 at 00h 35m 22s.xml">
-      <configuration name="Foundation_BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 24m 00s.xml">
+      <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="chapter1_Foundation_in_Algrothim_4th - 2018.07.24 at 00h 35m 29s.xml">
-      <configuration name="chapter1_Foundation in Algrothim_4th" configurationId="JUnit" />
+    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 24m 16s.xml">
+      <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_UnionFindTest - 2018.07.24 at 02h 03m 00s.xml">
-      <configuration name="Foundation_UnionFindTest" configurationId="JUnit" />
+    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 24m 49s.xml">
+      <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Foundation_UnionFindTest - 2018.07.24 at 02h 03m 13s.xml">
-      <configuration name="Foundation_UnionFindTest" configurationId="JUnit" />
+    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 25m 08s.xml">
+      <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28837000" />
+    <option name="totallyTimeSpent" value="36822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1839" height="1200" extended-state="6" />
+    <frame x="-7" y="-7" width="1577" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -391,13 +408,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295901" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32344496" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49971926" weight="0.3291866" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291866" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.3283237" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290993" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.270073" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27679157" />
       <window_info anchor="right" id="Database" order="3" weight="0.3295901" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24985963" />
       <window_info id="UI Designer" order="2" />
@@ -409,6 +425,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291866" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,6 +465,33 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/Foundation_UnionFind_QuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -455,16 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -472,16 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -547,30 +573,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/chapter01_FoundationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter01_FoundationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -596,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,14 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -628,31 +621,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/Foundation_UnionFind_QuickUnion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter1_Foundation/Foundation_UnionFind_QuickUnionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_SelectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_InsertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
