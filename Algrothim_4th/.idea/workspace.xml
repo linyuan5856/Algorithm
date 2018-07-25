@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,33 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sort_Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java">
+      <file leaf-file-name="Sort_Merge.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Merge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sort_Shell.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Shell.java">
+      <file leaf-file-name="Sort_MergeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_MergeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sort_ShellTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="114">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -102,6 +87,8 @@
         <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_InsertTest.java" />
         <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java" />
         <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Shell.java" />
+        <option value="$PROJECT_DIR$/test/chapter2_Sort/Sort_MergeTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Merge.java" />
       </list>
     </option>
   </component>
@@ -211,24 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Sort_ShellTest">
-    <configuration name="All in Algrothim_4th" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algrothim_4th" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Sort_MergeTest">
     <configuration name="Sort_InsertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algrothim_4th" />
       <extension name="coverage">
@@ -241,6 +211,29 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="chapter2_Sort" />
       <option name="MAIN_CLASS_NAME" value="chapter2_Sort.Sort_InsertTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Sort_MergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algrothim_4th" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter2_Sort" />
+      <option name="MAIN_CLASS_NAME" value="chapter2_Sort.Sort_MergeTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -323,18 +316,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.chapter2_Sort in Algrothim_4th" />
-      <item itemvalue="JUnit.All in Algrothim_4th" />
       <item itemvalue="JUnit.Sort_SelectionTest" />
       <item itemvalue="JUnit.Sort_InsertTest" />
       <item itemvalue="JUnit.Sort_ShellTest" />
+      <item itemvalue="JUnit.Sort_MergeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Sort_MergeTest" />
         <item itemvalue="JUnit.Sort_ShellTest" />
         <item itemvalue="JUnit.Sort_InsertTest" />
         <item itemvalue="JUnit.chapter2_Sort in Algrothim_4th" />
         <item itemvalue="JUnit.Sort_SelectionTest" />
-        <item itemvalue="JUnit.All in Algrothim_4th" />
       </list>
     </recent_temporary>
   </component>
@@ -355,17 +348,11 @@
       <workItem from="1532349974182" duration="3296000" />
       <workItem from="1532361580830" duration="7228000" />
       <workItem from="1532445611921" duration="1200000" />
-      <workItem from="1532524793321" duration="6255000" />
+      <workItem from="1532524793321" duration="8486000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Algrothim_4th - 2018.07.25 at 23h 28m 09s.xml">
-      <configuration name="All in Algrothim_4th" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_SelectionTest - 2018.07.26 at 01h 14m 14s.xml">
-      <configuration name="Sort_SelectionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Sort_SelectionTest - 2018.07.26 at 01h 14m 33s.xml">
       <configuration name="Sort_SelectionTest" configurationId="JUnit" />
     </history-entry>
@@ -390,9 +377,15 @@
     <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 25m 08s.xml">
       <configuration name="Sort_ShellTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Sort_MergeTest - 2018.07.26 at 02h 11m 23s.xml">
+      <configuration name="Sort_MergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Sort_MergeTest - 2018.07.26 at 02h 12m 10s.xml">
+      <configuration name="Sort_MergeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36822000" />
+    <option name="totallyTimeSpent" value="39053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1577" height="1026" extended-state="6" />
@@ -409,7 +402,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32344496" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.3283237" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283237" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27679157" />
@@ -648,27 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_SelectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_InsertTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -686,10 +658,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="133">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -697,6 +673,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_ShellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_SelectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter2_Sort/Sort_MergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2_Sort/Sort_Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
