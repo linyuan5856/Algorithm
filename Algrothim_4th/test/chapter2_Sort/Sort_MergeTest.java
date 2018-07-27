@@ -9,7 +9,7 @@ public class Sort_MergeTest {
 
     @Test
     public void sort() {
-        String[] a = Sort_Base.a;
+        Comparable[] a = Sort_Base.GetTestArrary();
         Sort_Merge.Sort(a);
         Assert.assertTrue(Sort_Base.IsSorted(a));
         Sort_Base.Show(a);

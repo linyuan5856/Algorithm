@@ -9,7 +9,7 @@ public class Sort_InsertTest {
 
     @Test
     public void Sort() {
-        String[] a = Sort_Base.a;
+        Comparable[] a = Sort_Base.GetTestArrary();
         Sort_Insert.Sort(a);
         Assert.assertTrue(Sort_Base.IsSorted(a));
         Sort_Base.Show(a);

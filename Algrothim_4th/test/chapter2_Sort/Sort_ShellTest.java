@@ -9,7 +9,7 @@ public class Sort_ShellTest {
 
     @Test
     public void sort() {
-        String[] a = Sort_Base.a;
+        Comparable[] a = Sort_Base.GetTestArrary();
         Sort_Shell.Sort(a);
         Sort_Base.Show(a);
 

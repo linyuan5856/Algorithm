@@ -5,12 +5,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Sort_SelectionTest {
+public class Sort_QuickSortTest {
 
     @Test
     public void sort() {
         Comparable[] a = Sort_Base.GetTestArrary();
-        Sort_Selection.Sort(a);
+        Sort_QuickSort.Sort(a);
         Assert.assertTrue(Sort_Base.IsSorted(a));
         Sort_Base.Show(a);
     }
