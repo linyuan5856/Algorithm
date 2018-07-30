@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chapter3_Find/Find_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chapter3_Find/Find_Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,22 +70,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="313" />
+          <entry key="java" value="517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="313" />
+          <entry key="JAVA" value="517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -95,17 +96,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_Sequnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="171">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_Binary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/chapter3_Find/Find_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="383">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +129,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/chapter01_Foundation.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter1_Foundation/ResizingArraryStack.java" />
-        <option value="$PROJECT_DIR$/src/chapter1_Foundation/Foundation_BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java" />
         <option value="$PROJECT_DIR$/test/chapter1_Foundation/ResizingArraryStackTest.java" />
         <option value="$PROJECT_DIR$/test/chapter1_Foundation/Foundation_BinarySearchTest.java" />
@@ -164,7 +173,9 @@
         <option value="$PROJECT_DIR$/src/chapter2_Sort/Sort_Heap.java" />
         <option value="$PROJECT_DIR$/src/chapter3_Find/Find_Sequnce.java" />
         <option value="$PROJECT_DIR$/test/chapter3_Find/Find_SequnceTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter1_Foundation/Foundation_BinarySearch.java" />
         <option value="$PROJECT_DIR$/test/chapter3_Find/Find_Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/Find_Binary.java" />
       </list>
     </option>
   </component>
@@ -241,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532964107693" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532965030476" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -388,32 +399,11 @@
       <workItem from="1532678068217" duration="563000" />
       <workItem from="1532678670030" duration="848000" />
       <workItem from="1532791361729" duration="1063000" />
-      <workItem from="1532962017444" duration="1270000" />
+      <workItem from="1532962017444" duration="2188000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 24m 16s.xml">
-      <configuration name="Sort_ShellTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 24m 49s.xml">
-      <configuration name="Sort_ShellTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_ShellTest - 2018.07.26 at 01h 25m 08s.xml">
-      <configuration name="Sort_ShellTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_MergeTest - 2018.07.26 at 02h 11m 23s.xml">
-      <configuration name="Sort_MergeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_MergeTest - 2018.07.26 at 02h 12m 10s.xml">
-      <configuration name="Sort_MergeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Algrothim_4th - 2018.07.27 at 15h 55m 14s.xml">
-      <configuration name="All in Algrothim_4th" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Algrothim_4th - 2018.07.27 at 16h 02m 59s.xml">
-      <configuration name="All in Algrothim_4th" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Algrothim_4th - 2018.07.27 at 16h 17m 45s.xml">
       <configuration name="All in Algrothim_4th" configurationId="JUnit" />
     </history-entry>
@@ -423,15 +413,36 @@
     <history-entry file="chapter2_Sort_in_Algrothim_4th - 2018.07.28 at 23h 44m 06s.xml">
       <configuration name="chapter2_Sort in Algrothim_4th" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 21m 55s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 31m 22s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 32m 42s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 33m 10s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 34m 10s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 36m 37s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="chapter3_Find_in_Algrothim_4th - 2018.07.30 at 23h 36m 53s.xml">
+      <configuration name="chapter3_Find in Algrothim_4th" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42797000" />
+    <option name="totallyTimeSpent" value="43715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1577" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2905983" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2905983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,13 +450,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291866" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49971926" weight="0.3275862" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873562" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3229885" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3229885" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.26091954" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50028074" side_tool="true" weight="0.32887402" />
@@ -521,13 +532,6 @@
     <entry file="jar://$PROJECT_DIR$/Lib/algs4.jar!/edu/princeton/cs/algs4/BinarySearch.java" />
     <entry file="file://$PROJECT_DIR$/test/chapter01_FoundationTest.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/chapter01_Foundation.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/Foundation_BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/ResizingArraryStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -685,20 +689,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1_Foundation/Foundation_BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_Sequnce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/chapter3_Find/Find_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="383">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_Binary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
