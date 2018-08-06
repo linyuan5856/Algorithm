@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "algorithm",
+                "projectName": "algorithm",
+                "workingDirectory": "c:\\Project\\java\\LearnAlgorithm\\algorithm",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "algorithm",
+                "projectName": "algorithm",
+                "workingDirectory": "c:\\Project\\java\\LearnAlgorithm\\algorithm",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
