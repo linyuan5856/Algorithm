@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3c16a5d-5d10-476e-809e-0ba41039cd10" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter3_Find/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_Find/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,23 +93,38 @@
     <session id="1287951604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="887" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="2959" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.extensions.open" />
-      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="887" />
+          <entry key="JAVA" value="2959" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -117,44 +132,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/chapter3_Find/Find_Test.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter3_Find/AVLRedBlackTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_BST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter3_Find/BST.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter3_Find/AVL_234Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2302">
-              <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#1311#1312#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
-                <element signature="e#1914#1915#0" expanded="true" />
-                <element signature="e#1952#1953#0" expanded="true" />
-                <element signature="e#2230#2231#0" expanded="true" />
-                <element signature="e#2268#2269#0" expanded="true" />
-                <element signature="e#2575#2576#0" expanded="true" />
-                <element signature="e#2595#2596#0" expanded="true" />
-                <element signature="e#2838#2839#0" expanded="true" />
-                <element signature="e#2871#2872#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1116#1117#0" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,6 +179,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>\n</find>
+      <find>node</find>
+      <find>temp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -215,6 +222,11 @@
         <option value="$PROJECT_DIR$/src/chapter3_Find/Find_Binary.java" />
         <option value="$PROJECT_DIR$/src/chapter3_Find/Find_BST.java" />
         <option value="$PROJECT_DIR$/src/chapter3_Find/BST.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/AVL.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/AVLRedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/chapter3_Find/AVL_234Tree.java" />
       </list>
     </option>
   </component>
@@ -234,7 +246,7 @@
     <option name="x" value="315" />
     <option name="y" value="126" />
     <option name="width" value="2100" />
-    <option name="height" value="1512" />
+    <option name="height" value="1525" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -244,18 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algrothim_IntellijIdea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algrothim_IntellijIdea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -277,11 +277,6 @@
             <path>
               <item name="Algrothim_IntellijIdea" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Algrothim_4th" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algrothim_IntellijIdea" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algrothim_4th" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -290,16 +285,17 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="chapter3_Find" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="Algrothim_IntellijIdea" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algrothim_4th" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algrothim_IntellijIdea" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algrothim_4th" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="chapter3_Find" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Algrothim_IntellijIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algrothim_IntellijIdea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,7 +306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533574183630" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534008899519" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -460,7 +456,14 @@
       <workItem from="1532962017444" duration="8221000" />
       <workItem from="1533045588971" duration="6768000" />
       <workItem from="1533126375937" duration="754000" />
-      <workItem from="1533547326684" duration="9219000" />
+      <workItem from="1533547326684" duration="9427000" />
+      <workItem from="1533574911428" duration="811000" />
+      <workItem from="1533611678678" duration="7525000" />
+      <workItem from="1533640962083" duration="1254000" />
+      <workItem from="1533695734631" duration="7640000" />
+      <workItem from="1533743834655" duration="219000" />
+      <workItem from="1533812638468" duration="3343000" />
+      <workItem from="1533985394425" duration="8169000" />
     </task>
     <servers />
   </component>
@@ -497,7 +500,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66489000" />
+    <option name="totallyTimeSpent" value="95658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,7 +515,7 @@
     <frame x="-7" y="-7" width="1577" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16765286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -533,7 +536,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32988507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24985963" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24983564" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -767,40 +770,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/chapter3_Find/Find_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3_Find/Find_BST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chapter3_Find/Find_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3_Find/AVL.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter3_Find/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3_Find/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2302">
-          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3_Find/AVLRedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3_Find/AVL_234Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#1311#1312#0" expanded="true" />
-            <element signature="e#1347#1348#0" expanded="true" />
-            <element signature="e#1914#1915#0" expanded="true" />
-            <element signature="e#1952#1953#0" expanded="true" />
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2268#2269#0" expanded="true" />
-            <element signature="e#2575#2576#0" expanded="true" />
-            <element signature="e#2595#2596#0" expanded="true" />
-            <element signature="e#2838#2839#0" expanded="true" />
-            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
           </folding>
         </state>
       </provider>
